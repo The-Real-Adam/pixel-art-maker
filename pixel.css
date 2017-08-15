@@ -1,0 +1,73 @@
+header{
+  height: 100px;
+  width: 1000px;
+  border: 1px solid black;
+  margin: 0 auto;
+  display: flex;
+  color:blue;
+
+}
+.container{
+  margin: 0 auto;
+  width: 90%;
+  height: 70%;
+  /*background-color: red;*/
+  border: 20px;
+  border-color: solid black;
+}
+
+.pixelContainer{
+  width: 1000px;
+  height:1000px;
+  background-color: solid white;
+  margin: 0 auto;
+}
+
+.pixelClass{
+  float: left;
+  height: 25px;
+  width: 25px;
+  border: 1px solid grey;
+  background-color: white;
+}
+
+.colors{
+
+}
+
+#div-Black{
+  background-color: black;
+}
+
+#div-Yellow{
+  background-color: yellow;
+}
+
+#div-Red{
+  background-color: red;
+}
+
+#div-Blue{
+  background-color: blue;
+}
+#div-Green{
+  background-color: green;
+}
+#div-White{
+  background-color: white;
+}
+
+.colorPalletItems{
+  width:78px;
+  height: 78px;
+  float: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid grey;
+}
+.title{
+  margin: 0 auto;
+  display: flex
+}
